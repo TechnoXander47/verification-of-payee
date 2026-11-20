@@ -21,7 +21,7 @@ Verification of Payee is a real-time name-checking service for SEPA credit trans
 
 ## Sources
 
-- Source details and referenced articles: [`sources/source-manifest.md`](sources/source-manifest.md)
+- Source details and referenced articles: [`source-manifest.md`](source-manifest.md)
 - Primary source: [Verification of Payee solution page](https://technoxander.com/verification-of-payee/)
 
 ## Notes
